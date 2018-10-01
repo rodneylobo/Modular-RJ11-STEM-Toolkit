@@ -1,4 +1,4 @@
-# elementory-eezo
+# Modular RJ11 Main Board
 First prototype using modular RJ11 6p6c connectors. 
 The Main board has the Arduino. 
 The One board is designed to be used with the input, output, and display devices. 
