@@ -1,0 +1,2 @@
+This library contains all RJ11 ports used to design the boards.
+It also contains a port with larger pads, for when machines are not involved to fabricate the PBC
