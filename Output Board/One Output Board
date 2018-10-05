@@ -1,0 +1,2 @@
+Various output devices can be connected to this board.
+Unlike the input board, there is no need for arduino breakout boards to be soldered, only the throughhole/SMD components.
