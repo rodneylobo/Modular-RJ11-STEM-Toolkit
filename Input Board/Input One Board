@@ -1,0 +1,3 @@
+A general board for input devices or sensors that can be connected to the main board.
+3-pin break-out boards of any kind already compatible with arduino can be soldered. 
+Be careful about the position of the 5V, signal and GND before soldering.
